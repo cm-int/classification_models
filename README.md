@@ -62,9 +62,9 @@ To help you prepare for this class, review the following resources:
 
     This module provides an overview of the essential steps in building a machine learning model: data preparation, model construction and tuning, and testing and validation.
 
-    Click [here](https://github.com/cm-int/machine-learning-fundamentals/tree/main/module_3/Democode) for the demonstration notebooks and data files.
+    Click [here](https://github.com/cm-int/classification_models/tree/main/module_3/Democode) for the demonstration notebooks and data files.
 
-    Click [here](https://github.com/cm-int/machine-learning-fundamentals/tree/main/module_3/Labs) for the lab instructions, notebooks, and data files.
+    Click [here](https://github.com/cm-int/classification_models/tree/main/module_3/Labs) for the lab instructions, notebooks, and data files.
 
 1. **Understanding Binary and Non-Binary Classification**
 
