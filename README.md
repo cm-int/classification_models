@@ -83,11 +83,17 @@ To help you prepare for this class, review the following resources:
 1. **Exploring Data and Selecting Features and Algorithms**
 
     This module explains how to refine a machine learning model, by selecting the most relevant features from the dataset, examining the distribution of values, investigating correlation between features, normalizing data, and removing bias. This is useful in refining the features of the dataset used to create a machine learning model.
+    
+    Click [here](https://github.com/cm-int/classification_models/tree/main/module_6/Democode) for the demonstration notebooks and data files.
 
 1. **Measuring the Performance of a Classification Model**
 
     This module describes how to assess the accuracy and performance for a classification model, and how to balance precision and recall where appropriate.
+    
+    Click [here](https://github.com/cm-int/classification_models/tree/main/module_7/Labs) for the lab instructions, notebooks, and data files.
 
 1. **Understanding Imbalanced Classification**
 
     This module discusses the problems that can arise when using an imbalanced dataset to create a classification model, how to recognize potential problems, and how to address them.
+
+    Click [here](https://github.com/cm-int/classification_models/tree/main/module_8/Labs) for the lab instructions, notebooks, and data files.
