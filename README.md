@@ -68,24 +68,26 @@ To help you prepare for this class, review the following resources:
 
 1. **Understanding Binary and Non-Binary Classification**
 
-    This lesson describes the differences between binary and multi-valued classification and shows how to create a multi-class classification model.
+    This module describes the differences between binary and multi-valued classification and shows how to create a multi-class classification model.
 
-    Click [here](https://github.com/cm-int/machine-learning-fundamentals/tree/main/module_4/Democode) for the demonstration notebooks and data files.
+    Click [here](https://github.com/cm-int/classification_models/tree/main/module_4/Democode) for the demonstration notebooks and data files.
 
-    Click [here](https://github.com/cm-int/machine-learning-fundamentals/tree/main/module_4/Labs) for the lab instructions, notebooks, and data files.
+    Click [here](https://github.com/cm-int/classification_models/tree/main/module_4/Labs) for the lab instructions, notebooks, and data files.
 
 1. **Reviewing Statistics Concepts**
 
-    This lesson summarizes key statistics terminology, and some common techniques used to analyze the distribution, scale, and relationships between items in a dataset. This information is essential to understanding the validity of a machine learning model.
+    This module summarizes key statistics terminology, and some common techniques used to analyze the distribution, scale, and relationships between items in a dataset. This information is essential to understanding the validity of a machine learning model.
+    
+    Click [here](https://github.com/cm-int/classification_models/tree/main/module_5/Democode) for the demonstration notebooks and data files.
 
 1. **Exploring Data and Selecting Features and Algorithms**
 
-    TThis module explains how to refine a machine learning model, by selecting the most relevant features from the dataset, examining the distribution of values, investigating correlation between features, normalizing data, and removing bias. This is useful in refining the features of the dataset used to create a machine learning model.
+    This module explains how to refine a machine learning model, by selecting the most relevant features from the dataset, examining the distribution of values, investigating correlation between features, normalizing data, and removing bias. This is useful in refining the features of the dataset used to create a machine learning model.
 
 1. **Measuring the Performance of a Classification Model**
 
-    This lesson describes how to assess the accuracy and performance for a classification model, and how to balance precision and recall where appropriate.
+    This module describes how to assess the accuracy and performance for a classification model, and how to balance precision and recall where appropriate.
 
 1. **Understanding Imbalanced Classification**
 
-    This lesson discusses the problems that can arise when using an imbalanced dataset to create a classification model, how to recognize potential problems, and how to address them.
+    This module discusses the problems that can arise when using an imbalanced dataset to create a classification model, how to recognize potential problems, and how to address them.
