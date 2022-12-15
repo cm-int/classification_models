@@ -44,9 +44,7 @@ To help you prepare for this class, review the following resources:
 
 - Python for Beginners, at https://www.python.org/about/gettingstarted
 - NumPy Quickstart, at https://numpy.org/doc/stable/user/quickstart.html
-- Introduction to PyTorch, at https://pytorch.org/tutorials/beginner/introyt/introyt1_tutorial.html
 - Introduction to SciKit-Learn in Python, at https://www.section.io/engineering-education/introduction-to-scikit-learn-in-python/
-- Matrices, at https://math.libretexts.org/Bookshelves/Applied_Mathematics/Applied_Finite_Mathematics_(Sekhon_and_Bloom)/02%3A_Matrices
 - Statistics, at https://stats.libretexts.org/Bookshelves/Introductory_Statistics/Book%3A_Introductory_Statistics_(Shafer_and_Zhang)
 - Calculus, at https://stats.libretexts.org/Courses/Lake_Tahoe_Community_College/Interactive_Calculus_Q1
 
