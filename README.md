@@ -51,6 +51,8 @@ To help you prepare for this class, review the following resources:
 1. **Introduction to Machine Learning Models**
 
     This module introduces machine learning together with the classification, clustering, and regression machine learning models. Students will learn the purpose of these models, and the types of problems to which students can apply them.
+    
+    Click [here](https://github.com/cm-int/classification_models/tree/main/module_1/Democode) for the demonstration notebooks and data files.
 
 1. **Understanding Classification Algorithms**
 
